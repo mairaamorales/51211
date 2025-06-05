@@ -1,0 +1,4 @@
+programa errorOperacion {
+  a = 5 + ;
+  imprimir(a);
+}
