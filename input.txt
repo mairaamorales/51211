@@ -1,0 +1,10 @@
+programa ejemplo {
+    x = 10;
+    y = x - 3;
+    imprimir (y);
+    procesar{
+        z = 10;
+    }manejarError(error1){
+        imprimir (error1);
+    }
+}
