@@ -1,0 +1,10 @@
+programa calculadora {
+  a = 20;
+  b = 4;
+  procesar {
+    division = a / b;
+    imprimir(division);
+  }  manejarError(e) {
+    imprimir(e);
+  }
+}
