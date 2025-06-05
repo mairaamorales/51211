@@ -1,0 +1,4 @@
+programa prueba 
+  x = 10;
+  imprimir(x);
+}
