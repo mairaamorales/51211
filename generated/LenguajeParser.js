@@ -1,4 +1,4 @@
-// Generated from c:/Users/Netbook/51211/proyecto/Lenguaje.g4 by ANTLR 4.13.2
+// Generated from c:/Users/Netbook/antlr/proyecto/Lenguaje.g4 by ANTLR 4.13.2
 // jshint ignore: start
 import antlr4 from 'antlr4';
 import LenguajeListener from './LenguajeListener.js';
